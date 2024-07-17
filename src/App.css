@@ -7,6 +7,37 @@
   pointer-events: none;
 }
 
+.textblockContainer {
+  background: #b5aa7f;
+  border-radius: 30px;
+  color: black;
+}
+
+.centeredText {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.right {
+  position: relative;
+  left: 300px;
+  padding: 10px;
+}
+
+.left {
+  position: relative;
+  right: 300px;
+  padding: 10px;
+}
+
+.headerContainer {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -14,7 +45,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #ecdacb;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
