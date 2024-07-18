@@ -17,7 +17,7 @@ export default function TimelineEntry (props: timelineEntryProps) {
                 <h1>{props.header}</h1>
                 <h3>{props.date}</h3>
             </header>
-            <p style={textBlockStyle}>{props.contents}</p>
+            <div style={textBlockStyle}>{props.contents}</div>
         </article>
     </li>
 }

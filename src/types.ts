@@ -1,3 +1,5 @@
+import { ReactElement } from "react"
+
 export type bannerHeaderProps = {
     text: string,
     image: string,
@@ -12,13 +14,13 @@ export type timelineEntryProps = {
     header: string,
     blockAlignment: string,
     date: string,
-    contents: string
+    contents: ReactElement
 }
 
 export type articleData = {
     header: string,
     date: string,
-    contents: string
+    contents: ReactElement
 }
 
 export type timelineProps = {
