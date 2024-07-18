@@ -1,3 +1,9 @@
+/*!
+ * github-buttons v2.28.0
+ * (c) 2024 なつき
+ * @license BSD-2-Clause
+ */
+
 /**
  * @license React
  * react-dom.production.min.js
