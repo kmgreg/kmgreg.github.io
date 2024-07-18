@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kmgreg-github-io/static/css/main.64437820.css",
-    "main.js": "/kmgreg-github-io/static/js/main.19681aeb.js",
-    "static/js/453.6c250cb3.chunk.js": "/kmgreg-github-io/static/js/453.6c250cb3.chunk.js",
-    "index.html": "/kmgreg-github-io/index.html",
-    "main.64437820.css.map": "/kmgreg-github-io/static/css/main.64437820.css.map",
-    "main.19681aeb.js.map": "/kmgreg-github-io/static/js/main.19681aeb.js.map",
-    "453.6c250cb3.chunk.js.map": "/kmgreg-github-io/static/js/453.6c250cb3.chunk.js.map"
+    "main.css": "/gregorek.dev/static/css/main.64437820.css",
+    "main.js": "/gregorek.dev/static/js/main.17702d24.js",
+    "static/js/453.6c250cb3.chunk.js": "/gregorek.dev/static/js/453.6c250cb3.chunk.js",
+    "index.html": "/gregorek.dev/index.html",
+    "main.64437820.css.map": "/gregorek.dev/static/css/main.64437820.css.map",
+    "main.17702d24.js.map": "/gregorek.dev/static/js/main.17702d24.js.map",
+    "453.6c250cb3.chunk.js.map": "/gregorek.dev/static/js/453.6c250cb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64437820.css",
-    "static/js/main.19681aeb.js"
+    "static/js/main.17702d24.js"
   ]
 }
